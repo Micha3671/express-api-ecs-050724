@@ -1,0 +1,23 @@
+{
+  "name": "express-api-ecs-050724",
+  "version": "1.0.0",
+  "description": "api-ecs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "lint": "eslint ."
+  },
+  "author": "Micha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^1.1.0",
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "eslint-plugin-react": "^7.34.3",
+    "globals": "^15.8.0"
+  }
+}
